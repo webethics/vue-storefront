@@ -8,7 +8,7 @@ import { WishlistModule } from '@vue-storefront/core/modules/wishlist'
 import { NotificationModule } from '@vue-storefront/core/modules/notification'
 import { UrlModule } from '@vue-storefront/core/modules/url'
 import { BreadcrumbsModule } from '@vue-storefront/core/modules/breadcrumbs'
-import { UserModule } from '@vue-storefront/core/modules/user'
+import { UserModule } from './user'
 import { CmsModule } from '@vue-storefront/core/modules/cms'
 // import { GoogleTagManagerModule } from './google-tag-manager';
 // import { AmpRendererModule } from './amp-renderer';
